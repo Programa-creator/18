@@ -1,0 +1,2 @@
+$ touch .gitignore
+$ git rm --cached FILENAME
